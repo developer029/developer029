@@ -4,9 +4,5 @@
 - 💞️ I’m looking to collaborate on a fun ASCII text adventure
 - 📫 How to reach me: studiosbuckaroo@gmail.com
 - 😄 Pronouns: There's three of us. We're all boys (He)
-- ⚡ Fun fact: My favorite Github games are Candy Box 2, n-gon and A Dark Room
+- ⚡ Fun fact: My favorite Github games are <a href="candybox2.github.io">Candy Box 2</a>, <a href="landgreen.github.io/sidescroller/index.html">n-gon</a> and <a href="https://adarkroom.doublespeakgames.com/">A Dark Room</a>
 
-<!---
-BuckarooStudios/BuckarooStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
