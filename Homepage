@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="Homepage.css">
+<head>
+<h1>Buckaroo Studios</h1>
+</head>
+<h3>About Us</h3>
+<p>We're 3 developers out of Orlando, FL that make fun, usually science-y games using the <a href="piskelapp.com">Piskel</a> pixel art software and coding languages JavaScript, HTML, and CSS. Our first game, ExoSim started as a school project and eventually developed into the game studios we are today. We hope you enjoy some our games <br><br> Thanks, the devs</p>
+<h3>Our Games</h3>
+<ul>
+<li><a href="buckaroostudios.github.io/ExoSim/Menu.html">ExoSim</a></li>
+<li>Relaxtopia</li>
+</ul>
+<h3>Links/Social Profiles</h3>
+<ul>
+<li><a href="www.youtube.com/channel/UCMwcB7WzTcZyaAxFWh7LFNg">Our Youtube</a> - We post weekly.</li>
+<li><a href="mail.google.com/mail/?view=cm&to=studiosbuckaroo@gmail.com">Email Us</a> - studiosbuckaroo</li>
+<li><a href="forms.gle/h7s5j4gCMk2BiUU28">Give feedback</a> - Feedback for games.</li>
+</ul>
