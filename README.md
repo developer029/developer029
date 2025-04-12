@@ -1,2 +1,2 @@
-Currently working on ExoSim v1.0.1. Possibly a new simulator soon about the moons of the solar system.
+Currently working on ExoSim v1.1.0. Will add more stats added and a new feature to exoplanet/star pages.
 
